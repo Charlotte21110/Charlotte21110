@@ -70,7 +70,7 @@ const skill = {
 - 除了写代码做项目外，业余爱好弹古筝、钢琴，画漫画，跳宅舞
 - 主坑东方和ff14
 
-<img align="center" alt="我的生活照" src="./image/my.jpg" />
+<!-- <img align="center" alt="我的生活照" src="./image/my.jpg" /> -->
 
 点击文中的链接私信可与各位佬扩列，请多多指教
 
