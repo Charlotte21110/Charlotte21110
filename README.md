@@ -53,10 +53,10 @@ const skill = {
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-## 开源项目
+<!-- ## 开源项目
 - [小红书官网模仿](https://github.com/Charlotte21110/RedBook)
 - [影视交流分享平台-前端](https://github.com/Charlotte21110/FilmVueProject)
-- [ai问答LLM组件](https://github.com/Charlotte21110/byteDanceLLM)
+- [ai问答LLM组件](https://github.com/Charlotte21110/byteDanceLLM) -->
 
 ## 关于我
 
@@ -72,7 +72,7 @@ const skill = {
 
 <img align="center" alt="我的生活照" src="./image/my.jpg" />
 
-想扩列可以点文中的链接私信，希望认识各位大佬，请多多指教
+点击文中的链接私信可与各位佬扩列，请多多指教
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
