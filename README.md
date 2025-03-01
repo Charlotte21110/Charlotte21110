@@ -1,12 +1,14 @@
 ## Hello GitHub Fans 👋
 
+Welcome To My GitHub
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ## I'm Marisa
 
 - 🌱 I'm a Computer Engineering Undergraduate Student with a passion for Front-End Development and Open Source.
 - 🎯 I have one year of internship experience as a Front-End Developer and have interviewed for both Front-End and Back-End positions.
-- 🌐 Currently working in Hangzhou, China.
+- 🌐 Currently working in China.
 - 💬 Ask me about JavaScript, HTML, CSS, React, or any tech-related topics!
 - ⭐ You may like [blog](https://charlotte21110.github.io/) where I share tech insights 、[bilibili](https://space.bilibili.com/109323848) for fun videos、or [xiaohongshu](https://www.xiaohongshu.com/user/profile/5f1cd330000000000101e6c1) for more personal content
 - ⚡ Fun fact: Data Analysis📊
